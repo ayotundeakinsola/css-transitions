@@ -1,0 +1,10 @@
+.box {
+    background-color: #79797f;
+    width: 150px;
+    height: 150px;
+    transition: transform 1s ease-in-out;
+  }
+  
+.box:hover {
+    transform: translateX(100%);
+  }
